@@ -1,3 +1,4 @@
 hello world!
 new branch added
+hello world!
 hello world of master branch!
